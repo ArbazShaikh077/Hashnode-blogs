@@ -147,6 +147,8 @@ void main() {
 
 This code snippet is making a query to the GraphQL endpoint using the `graphql_flutter` package, and using the `hello` a query that we defined in our `server.js` file. The `QueryResult` the object returned by the `query` method contains the data returned by the GraphQL endpoint. In this case, the data is a joke about computers.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674398460095/a46a61bf-e77c-4d39-91f0-039fd7138991.png align="center")
+
 To see the full code and try it out for yourself, visit our [GitHub repository.](https://github.com/ArbazShaikh077/flutter_graphql) Want to stay updated with my latest content? Follow me.
 
 In conclusion, building a Flutter app with a GraphQL backend is relatively easy. With the right tools, you can easily connect your Flutter app to a GraphQL server and improve the performance and flexibility of your app.
